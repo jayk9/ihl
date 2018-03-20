@@ -1,0 +1,29 @@
+G	-games played
+GS	-games started
+RPG	-rebounds per game
+APG	-assists per game
+MPG	-minutes per game
+EFF	-efficiency
+OFF	-offensive rebounds
+DEF 	-defense
+SPG	-steals per game
+BPG	-blocks per game
+TO	-turnovers
+PF	-perrsonal fouls
+PPG	-points per game
+FG%	-field goal %(shots made div into shots taken)
+3P%	-3 point field goal %(3 pt shots made div into 3 pt shots taken)
+FT%	-free throws made div into free throws shots taken
+
+Efficiency= [(PTS + REB + AST + STL + BLK) - (FGA - FGM) + (FTA - FTM) + TO] / G 
+PTS=points 
+REB=Rebounds 
+AST=assists 
+STL=steals 
+BLK =blocks 
+FGA=Field Goals attempted 
+FGM=Field Goals made 
+FTA=free throws attempted 
+FTM=free throws made 
+TO=turnovers 
+G=games played
